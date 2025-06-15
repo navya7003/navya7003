@@ -2,7 +2,7 @@
   <img src="https://assets.website-files.com/5f79599298317a7833215286/5fc5e7440409a27914f6e3c0_ai.gif" alt="AI GIF" width="300" />
 </div>
 
-<h1 align="center">Hi there 👋 I'm Navya Gopika!</h1>
+<h1 align="center">Hi there 👋 I'm Navya !</h1>
 <p align="center">
   An aspiring <strong>AI/ML Engineer</strong> fueled by curiosity and a passion for crafting intelligent solutions. 🧠✨
   I thrive on turning complex data into actionable insights and building systems that learn and adapt.
